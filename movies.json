@@ -1,0 +1,56 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "movies1",
+    "x-lastModified": "Jan 04, 2017 04:32AM PST"
+  },
+  "paths": {
+    "/movie": {
+      "get": {
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success response"
+          }
+        },
+        "parameters": []
+      },
+      "post": {
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success response"
+          }
+        },
+        "parameters": []
+      },
+      "put": {
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success response"
+          }
+        },
+        "parameters": []
+      },
+      "delete": {
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success response"
+          }
+        },
+        "parameters": []
+      }
+    }
+  }
+}
